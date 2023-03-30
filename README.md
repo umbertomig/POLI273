@@ -22,7 +22,8 @@ This class was based on the following materials (not in any particular order):
 6. [*Field Experiments* by Gerber and Green](https://wwnorton.com/books/9780393979954)
 7. [*Foundations of Agnostic Statistics* by Aronow and Miller](https://www.cambridge.org/core/books/foundations-of-agnostic-statistics/684756357E7E9B3DFF0A8157FB2DCECA)
 8. [*Mostly Harmless Econometrics* by Angrist and Pischke](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)
-9. [*Thinking Clearly with Data* by Bueno de Mesquita and Fowler](https://press.princeton.edu/books/hardcover/9780691214368/thinking-clearly-with-data)
+9. [*The Effect* by Huntington-Klein](https://theeffectbook.net)
+10. [*Thinking Clearly with Data* by Bueno de Mesquita and Fowler](https://press.princeton.edu/books/hardcover/9780691214368/thinking-clearly-with-data)
 
 And many others materials that are scattered on papers, blogs, syllabi of colleagues, and so on.
 
